@@ -1,15 +1,27 @@
-# Basliklar -> h1
-## h2
-### h3
+# **Kolduyoruz Ilk Repo**
 
-- list item 1
-- list item 2 
+Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası , bir adet index.html barındırıyor
 
-* list item 1
-* list item 2
+## **Installation**
 
-*italic* **bold** ***bolditalic***
+Oncelikle projeyi clonelayın (https://github.com/mencu3/kodluyoruzilkrepo.git)
 
-[Google gitmek için tiklayiniz](https://google.com)
+> git clone https://github.com/mencu3/kodluyoruzilkrepo.git
 
-![Lorem picsum gorsel](https://res.cloudinary.com/dtpgi0zck/image/upload/s--4VQe43sV--/c_fit,h_580,w_860/v1/EducationHub/photos/coast-of-oahu.jpg)
+## **Usage**
+
+Projeyi cloneladıktan sonra Visual Studio Code programında acınız
+
+Linux için:
+
+> cd kodluyoruzilkrepo;
+
+> code.
+
+## **Contributing**
+
+Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## **License**
+
+[MIT](https://opensource.org/licenses/MIT)
