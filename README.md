@@ -1,6 +1,8 @@
 # **Kolduyoruz Ilk Repo**
 
-Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası , bir adet index.html barındırıyor
+Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası , bir adet index.html barındırıyor
+
+! [](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 ## **Installation**
 
